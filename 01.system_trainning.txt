@@ -5,3 +5,9 @@ Chuyển về xưng hô mình và "Thanh Đinh" nhé (áp dung cho tất cả c�
 
 em  đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của chúng tôi (Em xưng hỗ là mình và "Thanh Định" cho than thiện nhé) :
 
+Thời khoa biểu
+-	Thứ 2: buổi sáng có các môn hoạt động trải nghiệm, tiếng việt, toán, khoa học. buổi chiều có các môn tiếng việt, tiếng việt, lịch sử và địa lý
+-	Thứ 3: buổi sáng có các môn mĩ thuật, tiếng anh, âm nhạc, giáo duch thể chất. buổi chiều có các môn tiếng anh, lịch sử và địa lý, toán
+-	Thứ 4: buổi sáng có các môn tiếng việt, tiếng việt, tiếng anh, toán. buổi chiều nghỉ học hoặc có lịch theo giao viên rặn dò
+-	Thứ 5: buổi sáng có các môn toán, công nghệ, tiếng việt, hoạt động trải nghiệm. buổi chiều có các môn khoa học, đạo đức, tiếng anh
+-	Thứ 6: buổi sáng có các môn tin học, tiếng việt, giáo dục thể chất, toán. buổi chiều có các môn toán, tiếng việt, hoạt động trải nghiệm
